@@ -20,7 +20,7 @@ tentang **Pemrograman Berorientasi Objek (OOP)** menggunakan Python.
 ## 🔹 Latihan 1 – Atribut & Object
 
 📸 **Screenshot Hasil Program**  
-![Latihan 1](screenshots/latihan1.png)
+![Latihan 1](praktikumAi_1_6/screenshots/latihan1.png)
 
 **Pertanyaan:**  
 Apa yang terjadi jika `hero1.hp` diubah menjadi 500 setelah objek dibuat?
@@ -37,7 +37,7 @@ Atribut public fleksibel, tetapi tidak aman jika tidak dikontrol.
 ## 🔹 Latihan 2 – Interaksi Antar Objek
 
 📸 **Screenshot Hasil Program**  
-![Latihan 2](screenshots/latihan2.png)
+![Latihan 2](praktikumAi_1_6/screenshots/latihan2.png)
 
 **Pertanyaan:**  
 Mengapa parameter `lawan` menerima objek, bukan string?
@@ -56,7 +56,7 @@ Dalam OOP, **objek berinteraksi dengan objek**, bukan sekadar data.
 ## 🔹 Latihan 3 – Inheritance & `super()`
 
 📸 **Screenshot Error & Output**  
-![Latihan 3](screenshots/latihan3.png)
+![Latihan 3](praktikumAi_1_6/screenshots/latihan3.png)
 
 **Error yang muncul:**
 AttributeError: 'Mage' object has no attribute 'name'
@@ -76,7 +76,7 @@ sehingga atribut `name`, `hp`, dan `attack_power` tidak dibuat.
 ## 🔹 Latihan 4 – Encapsulation
 
 📸 **Screenshot Uji Encapsulation**  
-![Latihan 4](screenshots/latihan4.png)
+![Latihan 4](praktikumAi_1_6/screenshots/latihan4.png)
 
 ### 1️⃣ Akses `hero1._Hero__hp`
 Nilai HP tetap bisa diakses karena **Name Mangling**, bukan keamanan mutlak.
@@ -92,7 +92,7 @@ Setter penting untuk menjaga **integritas data**.
 ## 🔹 Latihan 5 – Abstraction & Interface
 
 📸 **Screenshot Error Abstract Class**  
-![Latihan 5](screenshots/latihan5.png)
+![Latihan 5](praktikumAi_1_6/screenshots/latihan5.png)
 
 **Error:**
 TypeError: Can't instantiate abstract class Hero
@@ -112,7 +112,7 @@ Polimorfisme: Memudahkan kita mengelola banyak objek berbeda dalam satu daftar (
 ## 🔹 Latihan 6 – Polymorphism
 
 📸 **Screenshot Polymorphism Loop**  
-![Latihan 6](screenshots/latihan6.png)
+![Latihan 6](praktikumAi_1_6/screenshots/latihan6.png)
 
 **Pertanyaan: Apakah program berjalan lancar?**
 
